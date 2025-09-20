@@ -1,0 +1,1 @@
+# Gerenciador-de-catalogos-netflix-azure-Functions
